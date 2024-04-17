@@ -9,7 +9,7 @@ setlocale(LC_ALL, "Portuguese");
 
 float metros, centimetros;
 
-cout<< ("Digite a quantidade de metros que você quer converter:\n");
+cout<< ("Digite a quantidade de metros que vocÃª quer converter:\n");
 cin>> metros;
 
 centimetros = metros * 100;
