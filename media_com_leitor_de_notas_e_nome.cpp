@@ -24,7 +24,7 @@ cin>> n4;
 
 media = (n1 + n2 + n3 + n4) / 4;
 
-cout<< ("As notas do aluno ") << nome << (" são: ") << n1 << (", ") << n2 << (", ") << n3 << (" e ") << n4 << (" e a média é de: ") << media;
+cout<< ("As notas do aluno ") << nome << (" sÃ£o: ") << n1 << (", ") << n2 << (", ") << n3 << (" e ") << n4 << (" e a mÃ©dia Ã© de: ") << media;
 
 return 0;
 }
