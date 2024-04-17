@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou @julianafc
 - 👀 Tenho interesse em adquirir mais conhecimento na área da programação
-- 🌱 Atualmente estou aprendendo a programar em C++ e HTML
+- 🌱 Atualmente estou aprendendo a programar principalmente em C++ e HTML
 - 📫 Forma de contato: julianafigueirac@gmail.com
 - 😄 Pronomes: ela/dela
