@@ -1,5 +1,1 @@
-- 👋 Oi, eu sou @julianafc
-- 👀 Tenho interesse em adquirir mais conhecimento na área da programação
-- 🌱 Atualmente estou aprendendo a programar principalmente em C++ e HTML
-- 📫 Forma de contato: julianafigueirac@gmail.com
-- 😄 Pronomes: ela/dela
+Bem-vindo ao meu portfólio online! Meu nome é Juliana, uma programadora em início de carreira com foco em HTML, C++, Java e Python. Aqui você encontrará uma seleção dos meus projetos acadêmicos mais recentes e relevantes. Cada projeto aqui reflete minha paixão por criar soluções inovadoras e práticas para desafios tecnológicos. Espero que você se sinta inspirado e à vontade para explorar meus trabalhos. Se algo despertar sua curiosidade ou se quiser conversar sobre possíveis colaborações, ficarei muito feliz em bater um papo e compartilhar mais sobre o que faço.
