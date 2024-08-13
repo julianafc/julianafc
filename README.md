@@ -16,5 +16,5 @@ Eu sou uma estudante de programação focada em HTML, CSS e JavaScript. Estou se
 <br>
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub de Juliana](https://github-readme-stats.vercel.app/api?username=julianafc&show_icons=true&theme=dracula)
+![Estatísticas do GitHub de Juliana](https://github-readme-stats.vercel.app/api?username=julianafc&show_icons=true&theme=dracula&count_private=true)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=julianafc&layout=compact&theme=dracula)
