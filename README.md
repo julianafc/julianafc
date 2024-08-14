@@ -14,7 +14,4 @@ Eu sou uma estudante de programação focada em HTML, CSS e JavaScript. Estou se
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
 <br>
-## Estatísticas do GitHub
 
-![Estatísticas do GitHub de Juliana](https://github-readme-stats.vercel.app/api?username=julianafc&show_icons=true&theme=dracula&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=julianafc&layout=compact&theme=dracula)
