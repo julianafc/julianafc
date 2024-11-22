@@ -3,7 +3,7 @@
 Eu sou uma estudante de programação focada em HTML, CSS e JavaScript. Estou sempre explorando novas tecnologias e melhorando minhas habilidades de desenvolvimento web.
 
 - 🌱 Atualmente, estou aprendendo: JavaScript
-- 🔭 Meus projetos recentes incluem: [Agenda de Viagens](https://github.com/julianafc/NLW_16_Planner)
+- 🔭 Meus projetos recentes incluem: [App de gerenciamento de eventos](https://github.com/Gabriel-Maciel-Costa/Impacta)
 - 📫 Como me encontrar: [julianafigueirac@gmail.com](mailto:julianafigueirac@gmail.com)
 <br><br>
 ## 🚀 Tecnologias e Ferramentas
